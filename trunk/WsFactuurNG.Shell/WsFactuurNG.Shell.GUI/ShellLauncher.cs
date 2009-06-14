@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WsFactuurNG.Shell.GUI
 {
-    public class Class1
+    class ShellLauncher
     {
     }
 }
