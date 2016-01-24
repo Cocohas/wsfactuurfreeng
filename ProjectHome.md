@@ -1,0 +1,1 @@
+A .NET Extension to WsFactuurFree, depending on the WSF Foxpro Databse, and written according to the Composite UI Application Block Enterprise Library
